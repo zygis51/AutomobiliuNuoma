@@ -1,0 +1,2 @@
+vardas: Jonas; pavarde: Jonaitis
+vardas: Ona; pavarde: Onaitė

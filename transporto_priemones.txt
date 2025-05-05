@@ -1,0 +1,3 @@
+marke: Toyota; modelis: Corolla; metai: 2020; kaina: 50.0; prieinamumas: laisva; tipas: automobilis; duru_sk: 5
+marke: Volkswagen; modelis: Golf; metai: 2019; kaina: 45.0; prieinamumas: laisva; tipas: automobilis; duru_sk: 5
+marke: Mercedes; modelis: Sprinter; metai: 2021; kaina: 80.0; prieinamumas: laisva; tipas: mikroautobusas; vietu_sk: 12

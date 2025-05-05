@@ -1,0 +1,1 @@
+kliento_vardas: Jonas; kliento_pavarde: Jonaitis; transporto_marke: Toyota; transporto_modelis: Corolla; pradzia: 2023-11-20 14:30:00; pabaiga: ; kaina: 50.0
